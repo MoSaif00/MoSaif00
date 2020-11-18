@@ -17,4 +17,3 @@ Skills: HTML / CSS / JS / MySQL / SALESFORCE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoSaif00&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/MoSaif00)  
