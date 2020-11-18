@@ -3,7 +3,7 @@ I am a Computer science student, I studied in India where I found Programming is
 
 Skills: HTML / CSS / JS / MySQL / SALESFORCE
 
-- 🔭 I’m currently working on E-Commorce site.
+- 🔭 I’m currently working on TubeCafe> UI.
 - 🌱 I’m currently learning Web Development with [HackYourFuture](https://www.hackyourfuture.net/)
 - 🤔 I’m looking for help with nothing for the moment.
 
