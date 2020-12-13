@@ -13,10 +13,9 @@ Skills: HTML / CSS / JS / MySQL / SALESFORCE
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoSaif00/)  
-<!--
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoSaif00&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSaif00&layout=compact)](https://github.com/MoSaif00/github-readme-stats)
 
 
 
--->
