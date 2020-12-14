@@ -1,6 +1,5 @@
 <p align="center"> 
   :eyes: <br>
-  <img src="https://profile-counter.glitch.me/MoSaif00/count.svg" width="20%" />
 </p>
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
                                                                                                                                                  
