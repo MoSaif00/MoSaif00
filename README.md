@@ -24,7 +24,7 @@ Skills: HTML / CSS / JS / MySQL / SALESFORCE
 
 <p align="center">
  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=MoSaif00&show_icons=true&line_height=27"> -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MoSaif00&langs_count=8">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MoSaif00&langs_count=8"> -->
 </p>
 
 
