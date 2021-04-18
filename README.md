@@ -14,10 +14,8 @@
  
    I am a Computer science student, I studied in India where I found Programming is a more interesting world, Then I moved to The Netherlands, I learned some new stuff that I really like. since I moved to The Netherlands I started looking for new challenging opportunities.
 
-Skills: HTML / CSS / Bootstrap / JavaScript / Node.js / MySQL / SalesForce
-<!--
-- 🔭 I’m currently working on TubeCafe> UI.
--->
+Skills: HTML / CSS / Bootstrap / JavaScript / Node.js / ExpressJs / MySQL / React
+- 🔭 I’m currently working on MERN eCommerce
 - 🌱 I’m currently learning Web Development with [HackYourFuture](https://www.hackyourfuture.net/)
 <!--
 - 🤔 I’m looking for help with nothing for the moment.
