@@ -15,10 +15,11 @@
    I am a Computer science student, I studied in India where I found Programming is a more interesting world, Then I moved to The Netherlands, I learned some new stuff that I really like. since I moved to The Netherlands I started looking for new challenging opportunities.
 
 Skills: HTML / CSS / Bootstrap / JavaScript / Node.js / ExpressJs / MySQL / React
+<!--
 - 🔭 I’m currently working on [My portfolio](https://github.com/MoSaif00/My-portfolio.git)
 - 🌱 Class30 including me finished working on [Farmy App](https://github.com/MoSaif00/farmy-class30-project.git) | [Demo](https://farmy-global.herokuapp.com/) 
-- 🌱 I’m learning Web Development at [HackYourFuture](https://www.hackyourfuture.net/)
-- 🌱 I’m currently learning [Python](https://github.com/MoSaif00/python-learning-exercises)
+-->
+- 🌱 I’m currently working at [DevSecOps-Academy](https://www.devsecops-academy.com/)
 
 <!--
 - 🤔 I’m looking for help with nothing for the moment.
