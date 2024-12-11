@@ -12,9 +12,9 @@
 </p>
 </br>
  
-   I am a Computer science student, I studied in India where I found Programming is a more interesting world, Then I moved to The Netherlands, I learned some new stuff that I really like. since I moved to The Netherlands I started looking for new challenging opportunities.
+   I am a Computer Science student with a passion for programming, which I discovered while studying in India. After moving to The Netherlands, I embraced new learning opportunities and expanded my skills in exciting areas. Now, I am actively seeking challenging opportunities to grow and apply my knowledge in the world of technology.
 
-Skills: HTML / CSS / Bootstrap / JavaScript / Node.js / ExpressJs / MySQL / React
+Skills: NextJS / JavaScript / React / Databases / NodeJs / Testings
 <!--
 - 🔭 I’m currently working on [My portfolio](https://github.com/MoSaif00/My-portfolio.git)
 - 🌱 Class30 including me finished working on [Farmy App](https://github.com/MoSaif00/farmy-class30-project.git) | [Demo](https://farmy-global.herokuapp.com/) 
